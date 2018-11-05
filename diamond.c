@@ -10,6 +10,7 @@ int main(){
 
     diameter = max - min;
 
+    //with line I know where am I
     line = 1;
 
     for(i = diameter ; i > 0 ; i--){
