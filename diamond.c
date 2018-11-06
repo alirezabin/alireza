@@ -10,7 +10,7 @@ int main(){
 
     diameter = max - min;
 
-    //with line I know where am I
+    //with line I know where am I in my diamond
     line = 1;
 
     for(i = diameter ; i > 0 ; i--){
